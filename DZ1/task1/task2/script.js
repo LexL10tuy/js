@@ -7,10 +7,5 @@ document.getElementById('button').addEventListener('click', function(){
     } else {
         message.textContent = 'Пожалуйста, введите год рождения!';
     }
-    // if (name) {
-    //     alert(`Привет, ${name}!`);
-    // } else {
-    //     ('Пожалуйста, введите свое имя!');
-    // }
 
 });
